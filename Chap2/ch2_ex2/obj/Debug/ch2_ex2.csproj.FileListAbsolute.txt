@@ -1,0 +1,7 @@
+C:\Users\hanwo\source\repos\Chap2\ch2_ex2\bin\Debug\ch2_ex2.exe.config
+C:\Users\hanwo\source\repos\Chap2\ch2_ex2\bin\Debug\ch2_ex2.exe
+C:\Users\hanwo\source\repos\Chap2\ch2_ex2\bin\Debug\ch2_ex2.pdb
+C:\Users\hanwo\source\repos\Chap2\ch2_ex2\obj\Debug\ch2_ex2.csproj.CoreCompileInputs.cache
+C:\Users\hanwo\source\repos\Chap2\ch2_ex2\obj\Debug\ch2_ex2.exe
+C:\Users\hanwo\source\repos\Chap2\ch2_ex2\obj\Debug\ch2_ex2.pdb
+C:\Users\hanwo\source\repos\Chap2\ch2_ex2\obj\Debug\ch2_ex2.csprojAssemblyReference.cache
