@@ -1,0 +1,6 @@
+C:\Users\hanwo\source\repos\Chap2\ch2_ex6\bin\Debug\ch2_ex6.exe.config
+C:\Users\hanwo\source\repos\Chap2\ch2_ex6\bin\Debug\ch2_ex6.exe
+C:\Users\hanwo\source\repos\Chap2\ch2_ex6\bin\Debug\ch2_ex6.pdb
+C:\Users\hanwo\source\repos\Chap2\ch2_ex6\obj\Debug\ch2_ex6.csproj.CoreCompileInputs.cache
+C:\Users\hanwo\source\repos\Chap2\ch2_ex6\obj\Debug\ch2_ex6.exe
+C:\Users\hanwo\source\repos\Chap2\ch2_ex6\obj\Debug\ch2_ex6.pdb
