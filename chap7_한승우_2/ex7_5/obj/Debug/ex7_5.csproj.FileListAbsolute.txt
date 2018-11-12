@@ -1,9 +1,0 @@
-C:\Users\SWH\source\repos\chap7_한승우\ex7_5\bin\Debug\ex7_5.exe.config
-C:\Users\SWH\source\repos\chap7_한승우\ex7_5\bin\Debug\ex7_5.exe
-C:\Users\SWH\source\repos\chap7_한승우\ex7_5\bin\Debug\ex7_5.pdb
-C:\Users\SWH\source\repos\chap7_한승우\ex7_5\obj\Debug\ex7_5.Properties.Resources.resources
-C:\Users\SWH\source\repos\chap7_한승우\ex7_5\obj\Debug\ex7_5.csproj.GenerateResource.cache
-C:\Users\SWH\source\repos\chap7_한승우\ex7_5\obj\Debug\ex7_5.csproj.CoreCompileInputs.cache
-C:\Users\SWH\source\repos\chap7_한승우\ex7_5\obj\Debug\ex7_5.exe
-C:\Users\SWH\source\repos\chap7_한승우\ex7_5\obj\Debug\ex7_5.pdb
-C:\Users\SWH\source\repos\chap7_한승우\ex7_5\obj\Debug\ex7_5.PaintEventApp.resources
