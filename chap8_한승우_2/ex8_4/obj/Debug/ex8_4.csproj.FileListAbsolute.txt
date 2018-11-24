@@ -1,0 +1,10 @@
+C:\Users\SWH\source\repos\chap8_한승우\ex8_4\bin\Debug\ex8_4.exe.config
+C:\Users\SWH\source\repos\chap8_한승우\ex8_4\bin\Debug\ex8_4.exe
+C:\Users\SWH\source\repos\chap8_한승우\ex8_4\bin\Debug\ex8_4.pdb
+C:\Users\SWH\source\repos\chap8_한승우\ex8_4\obj\Debug\ex8_4.csprojAssemblyReference.cache
+C:\Users\SWH\source\repos\chap8_한승우\ex8_4\obj\Debug\ex8_4.Form1.resources
+C:\Users\SWH\source\repos\chap8_한승우\ex8_4\obj\Debug\ex8_4.Properties.Resources.resources
+C:\Users\SWH\source\repos\chap8_한승우\ex8_4\obj\Debug\ex8_4.csproj.GenerateResource.cache
+C:\Users\SWH\source\repos\chap8_한승우\ex8_4\obj\Debug\ex8_4.csproj.CoreCompileInputs.cache
+C:\Users\SWH\source\repos\chap8_한승우\ex8_4\obj\Debug\ex8_4.exe
+C:\Users\SWH\source\repos\chap8_한승우\ex8_4\obj\Debug\ex8_4.pdb
