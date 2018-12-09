@@ -1,0 +1,10 @@
+C:\Users\hanwo\source\repos\ch9_ch10_한승우\ex10_2\bin\Debug\ex10_2.exe.config
+C:\Users\hanwo\source\repos\ch9_ch10_한승우\ex10_2\bin\Debug\ex10_2.exe
+C:\Users\hanwo\source\repos\ch9_ch10_한승우\ex10_2\bin\Debug\ex10_2.pdb
+C:\Users\hanwo\source\repos\ch9_ch10_한승우\ex10_2\obj\Debug\ex10_2.csprojAssemblyReference.cache
+C:\Users\hanwo\source\repos\ch9_ch10_한승우\ex10_2\obj\Debug\ex10_2.Form1.resources
+C:\Users\hanwo\source\repos\ch9_ch10_한승우\ex10_2\obj\Debug\ex10_2.Properties.Resources.resources
+C:\Users\hanwo\source\repos\ch9_ch10_한승우\ex10_2\obj\Debug\ex10_2.csproj.GenerateResource.cache
+C:\Users\hanwo\source\repos\ch9_ch10_한승우\ex10_2\obj\Debug\ex10_2.csproj.CoreCompileInputs.cache
+C:\Users\hanwo\source\repos\ch9_ch10_한승우\ex10_2\obj\Debug\ex10_2.exe
+C:\Users\hanwo\source\repos\ch9_ch10_한승우\ex10_2\obj\Debug\ex10_2.pdb
