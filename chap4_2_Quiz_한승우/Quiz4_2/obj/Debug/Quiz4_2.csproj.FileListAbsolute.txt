@@ -1,7 +1,0 @@
-C:\Users\SWH\source\repos\chap4_2_Quiz_한승우\Quiz4_2\obj\Debug\Quiz4_2.csprojAssemblyReference.cache
-C:\Users\SWH\source\repos\chap4_2_Quiz_한승우\Quiz4_2\obj\Debug\Quiz4_2.csproj.CoreCompileInputs.cache
-C:\Users\SWH\source\repos\chap4_2_Quiz_한승우\Quiz4_2\bin\Debug\Quiz4_2.exe.config
-C:\Users\SWH\source\repos\chap4_2_Quiz_한승우\Quiz4_2\bin\Debug\Quiz4_2.exe
-C:\Users\SWH\source\repos\chap4_2_Quiz_한승우\Quiz4_2\bin\Debug\Quiz4_2.pdb
-C:\Users\SWH\source\repos\chap4_2_Quiz_한승우\Quiz4_2\obj\Debug\Quiz4_2.exe
-C:\Users\SWH\source\repos\chap4_2_Quiz_한승우\Quiz4_2\obj\Debug\Quiz4_2.pdb
