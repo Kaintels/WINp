@@ -1,0 +1,11 @@
+C:\Users\hanwo\source\repos\chap7_winsln_A\quiz7_2\bin\Debug\quiz7_2.exe.config
+C:\Users\hanwo\source\repos\chap7_winsln_A\quiz7_2\bin\Debug\quiz7_2.exe
+C:\Users\hanwo\source\repos\chap7_winsln_A\quiz7_2\bin\Debug\quiz7_2.pdb
+C:\Users\hanwo\source\repos\chap7_winsln_A\quiz7_2\obj\Debug\quiz7_2.Properties.Resources.resources
+C:\Users\hanwo\source\repos\chap7_winsln_A\quiz7_2\obj\Debug\quiz7_2.q7_2_Form1.resources
+C:\Users\hanwo\source\repos\chap7_winsln_A\quiz7_2\obj\Debug\quiz7_2.csproj.GenerateResource.cache
+C:\Users\hanwo\source\repos\chap7_winsln_A\quiz7_2\obj\Debug\quiz7_2.csproj.CoreCompileInputs.cache
+C:\Users\hanwo\source\repos\chap7_winsln_A\quiz7_2\obj\Debug\quiz7_2.exe
+C:\Users\hanwo\source\repos\chap7_winsln_A\quiz7_2\obj\Debug\quiz7_2.pdb
+C:\Users\hanwo\source\repos\chap7_winsln_A\quiz7_2\obj\Debug\quiz7_2.csprojAssemblyReference.cache
+C:\Users\hanwo\source\repos\chap7_winsln_A\quiz7_2\obj\Debug\quiz7_2.q7_2_Form2.resources
