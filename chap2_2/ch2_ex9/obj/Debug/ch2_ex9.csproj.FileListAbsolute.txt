@@ -1,0 +1,6 @@
+C:\Users\hanwo\source\repos\Chap2\ch2_ex9\obj\Debug\ch2_ex9.csproj.CoreCompileInputs.cache
+C:\Users\hanwo\source\repos\Chap2\ch2_ex9\bin\Debug\ch2_ex9.exe.config
+C:\Users\hanwo\source\repos\Chap2\ch2_ex9\bin\Debug\ch2_ex9.exe
+C:\Users\hanwo\source\repos\Chap2\ch2_ex9\bin\Debug\ch2_ex9.pdb
+C:\Users\hanwo\source\repos\Chap2\ch2_ex9\obj\Debug\ch2_ex9.exe
+C:\Users\hanwo\source\repos\Chap2\ch2_ex9\obj\Debug\ch2_ex9.pdb
