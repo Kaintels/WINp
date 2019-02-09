@@ -1,0 +1,10 @@
+C:\Users\hanwo\source\repos\chap7_winsln_A\ex7_1\bin\Debug\ex7_1.exe.config
+C:\Users\hanwo\source\repos\chap7_winsln_A\ex7_1\bin\Debug\ex7_1.exe
+C:\Users\hanwo\source\repos\chap7_winsln_A\ex7_1\bin\Debug\ex7_1.pdb
+C:\Users\hanwo\source\repos\chap7_winsln_A\ex7_1\obj\Debug\ex7_1.csprojAssemblyReference.cache
+C:\Users\hanwo\source\repos\chap7_winsln_A\ex7_1\obj\Debug\ex7_1.Form1.resources
+C:\Users\hanwo\source\repos\chap7_winsln_A\ex7_1\obj\Debug\ex7_1.Properties.Resources.resources
+C:\Users\hanwo\source\repos\chap7_winsln_A\ex7_1\obj\Debug\ex7_1.csproj.GenerateResource.cache
+C:\Users\hanwo\source\repos\chap7_winsln_A\ex7_1\obj\Debug\ex7_1.csproj.CoreCompileInputs.cache
+C:\Users\hanwo\source\repos\chap7_winsln_A\ex7_1\obj\Debug\ex7_1.exe
+C:\Users\hanwo\source\repos\chap7_winsln_A\ex7_1\obj\Debug\ex7_1.pdb
