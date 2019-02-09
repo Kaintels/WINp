@@ -1,9 +1,0 @@
-C:\Users\SWH\source\repos\chap7_한승우\ex7_6\bin\Debug\ex7_6.exe.config
-C:\Users\SWH\source\repos\chap7_한승우\ex7_6\bin\Debug\ex7_6.exe
-C:\Users\SWH\source\repos\chap7_한승우\ex7_6\bin\Debug\ex7_6.pdb
-C:\Users\SWH\source\repos\chap7_한승우\ex7_6\obj\Debug\ex7_6.Properties.Resources.resources
-C:\Users\SWH\source\repos\chap7_한승우\ex7_6\obj\Debug\ex7_6.csproj.GenerateResource.cache
-C:\Users\SWH\source\repos\chap7_한승우\ex7_6\obj\Debug\ex7_6.csproj.CoreCompileInputs.cache
-C:\Users\SWH\source\repos\chap7_한승우\ex7_6\obj\Debug\ex7_6.exe
-C:\Users\SWH\source\repos\chap7_한승우\ex7_6\obj\Debug\ex7_6.pdb
-C:\Users\SWH\source\repos\chap7_한승우\ex7_6\obj\Debug\ex7_6.MoveResizeApp.resources

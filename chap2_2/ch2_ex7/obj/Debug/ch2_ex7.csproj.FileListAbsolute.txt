@@ -1,6 +1,0 @@
-C:\Users\hanwo\source\repos\Chap2\ch2_ex7\bin\Debug\ch2_ex7.exe.config
-C:\Users\hanwo\source\repos\Chap2\ch2_ex7\bin\Debug\ch2_ex7.exe
-C:\Users\hanwo\source\repos\Chap2\ch2_ex7\bin\Debug\ch2_ex7.pdb
-C:\Users\hanwo\source\repos\Chap2\ch2_ex7\obj\Debug\ch2_ex7.csproj.CoreCompileInputs.cache
-C:\Users\hanwo\source\repos\Chap2\ch2_ex7\obj\Debug\ch2_ex7.exe
-C:\Users\hanwo\source\repos\Chap2\ch2_ex7\obj\Debug\ch2_ex7.pdb

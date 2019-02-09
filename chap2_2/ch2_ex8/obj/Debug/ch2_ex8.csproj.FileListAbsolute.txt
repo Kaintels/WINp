@@ -1,7 +1,0 @@
-C:\Users\hanwo\source\repos\Chap2\ch2_ex8\bin\Debug\ch2_ex8.exe.config
-C:\Users\hanwo\source\repos\Chap2\ch2_ex8\bin\Debug\ch2_ex8.exe
-C:\Users\hanwo\source\repos\Chap2\ch2_ex8\bin\Debug\ch2_ex8.pdb
-C:\Users\hanwo\source\repos\Chap2\ch2_ex8\obj\Debug\ch2_ex8.csprojAssemblyReference.cache
-C:\Users\hanwo\source\repos\Chap2\ch2_ex8\obj\Debug\ch2_ex8.csproj.CoreCompileInputs.cache
-C:\Users\hanwo\source\repos\Chap2\ch2_ex8\obj\Debug\ch2_ex8.exe
-C:\Users\hanwo\source\repos\Chap2\ch2_ex8\obj\Debug\ch2_ex8.pdb
